@@ -10,7 +10,74 @@
 <meta property="og:title" content="jessejay.ch" />
 <meta property="og:locale" content="de_CH" />
 <meta name="description" content="jessejay.ch" />
-<meta name="author" content="Marcin Kolonko - www.division-2.com; Michael Fellner; Marcel Raschke ">
+<meta name="author" content="Marcin Kolonko - www.division-2.com; Michael Fellner; Marcel Raschke ">### Keybase proof
+
+I hereby claim:
+
+  * I am jessejay-ch on github.
+  * I am djjessejay (https://keybase.io/djjessejay) on keybase.
+  * I have a public key ASBg9KwglsY8vL_vbZ-m_3oINgzsgV1beCN6wq9ushSCywo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012060f4ac2096c63cbcbfef6d9fa6ff7a08360cec815d5b78237ac2af6eb21482cb0a",
+      "host": "keybase.io",
+      "kid": "012060f4ac2096c63cbcbfef6d9fa6ff7a08360cec815d5b78237ac2af6eb21482cb0a",
+      "uid": "4d69b9f9742756d905fcebfa97a89219",
+      "username": "djjessejay"
+    },
+    "merkle_root": {
+      "ctime": 1682967758,
+      "hash": "9e6271ec3f8621a78871664eb145972860bb65cca6c31fd697ee2a2e308abc064ee596db5252b83bd8e421ca2e66744c86ef9233a52d88fa9424dc22ffd9f7c4",
+      "hash_meta": "4e7ee72cde9171edec1114f704693e7fbb63723dd1fb2b3c863cf991723d434c",
+      "seqno": 24400118
+    },
+    "service": {
+      "entropy": "oOmmUcF8jjN9tJpPnAd57z7Z",
+      "name": "github",
+      "username": "jessejay-ch"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1682967814,
+  "expire_in": 504576000,
+  "prev": "5e35dfceac34782d52eef42514748dc8d70fac159a7a285217907081e5b00947",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBg9KwglsY8vL_vbZ-m_3oINgzsgV1beCN6wq9ushSCywo](https://keybase.io/djjessejay), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYPSsIJbGPLy/722fpv96CDYM7IFdW3gjesKvbrIUgssKp3BheWxvYWTESpcCBMQgXjXfzqw0eC1S7vQlFHSNyNcPrBWaeihSF5BwgeWwCUfEIC+BlpZxyXGJSR3DdRogcfnZ5+DLBCoKquUhIAzLwTmEAgHCo3NpZ8RAGzN3ukZzABUTHPrTeYjDrrr6fwMsZl8ad6B059O/WjQU2PSBEqL7KO6vAkN6vLQ9xng9adm2C+iA3zwWA1xHAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJv47VAn3Vk3BG/YeNhByWqSFo6VyLbCOWJnWnAOBI7co3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/djjessejay
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id djjessejay
+``
+
 <meta property="og:description" content="jessejay.ch" />
 <link rel="canonical" href="https://jessejay-ch.github.io/jessejay.ch/" />
 <meta property="og:url" content="https://jessejay-ch.github.io/jessejay.ch/" />

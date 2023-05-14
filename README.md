@@ -10,12 +10,13 @@
 <meta property="og:title" content="jessejay.ch" />
 <meta property="og:locale" content="de_CH" />
 <meta name="description" content="jessejay.ch" />
-<meta name="author" content="Marcin Kolonko - www.division-2.com; Michael Fellner; Marcel Raschke ">### Keybase proof
+<meta name="author" content="Marcin Kolonko - www.division-2.com; Michael Fellner; Marcel Raschke">
+    ### Keybase proof
 
 I hereby claim:
 
   * I am jessejay-ch on github.
-  * I am djjessejay (https://keybase.io/djjessejay) on keybase.
+  * I am djjessejay from Zürich (https://keybase.io/djjessejay) on keybase.
   * I have a public key ASBg9KwglsY8vL_vbZ-m_3oINgzsgV1beCN6wq9ushSCywo
 
 To claim this, I am signing this object:
@@ -81,10 +82,10 @@ keybase id djjessejay
 <meta property="og:description" content="jessejay.ch" />
 <link rel="canonical" href="https://jessejay-ch.github.io/jessejay.ch/" />
 <meta property="og:url" content="https://jessejay-ch.github.io/jessejay.ch/" />
-<meta property="og:site_name" content="jessejay.ch" />
+<meta property="og:site_name" content="jessejay.org" />
 <meta property="og:type" content="website" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"jessejay.ch","headline":"jessejay.ch","name":"jessejay.ch","url":"https://jessejay-ch.github.io/jessejay.ch/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"jessejay.ch","headline":"jessejay.ch","name":"jessejay.ch","url":"https://jessejay-ch.github.io/jessejay.org/"}</script>
 <!-- End Jekyll SEO tag -->
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -105,7 +106,7 @@ keybase id djjessejay
 
 
 <!-- You can set your favicon here -->
-<link rel="shortcut icon" type="image/x-icon" href="/jessejay.ch/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/jessejay.org/favicon.ico">
 
 
 <!-- end custom head snippets -->
@@ -114,9 +115,14 @@ keybase id djjessejay
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://jessejay-ch.github.io/jessejay.ch/">::DJ Jesse Jay::</a></h1>
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494828904&color=%230e0c69&auto_play=true&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jessejay" title="DJ Jesse Jay" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Jesse Jay</a> · <a href="https://soundcloud.com/jessejay/sets/djjessejay" title="Dj" target="_blank" style="color: #cccccc; text-decoration: none;">Dj</a></div>
+      meta name="keywords" content="DJ, Jesse Jay, JesseJay, Michael, Fellner, Michael Fellner, Techno,
+House, Progressive, Prog-House, Progressive-House, Tech-House, progressive, sexy Musik"> </>
+<body><title>
+<h2>:: since 1997 the progressive music attack from Zürich ::</h2>
+<meta name="description" content="https://m30n.blogspot.com/p/dj-jesse-jay-since-over-25-years.html" />
+
+      <h1><a href="https://jessejay-ch.github.io/jessejay.org/">::DJ Jesse Jay::</a></h1>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494828904&color=%230e0c69&auto_play=true&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jessejay" title="DJ Jesse Jay" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Jesse Jay</a> · 
 
 
 <head>
@@ -133,6 +139,8 @@ Er spielte Tracks, die ich noch nie gehört hatte, aber die mich sofort in ihren
 Er schuf eine Atmosphäre voller Leidenschaft, Emotionen und Fantasie. 
 Er nahm mich mit auf eine seiner seelentragenden Reise, eine die meinen Horizont erweiterte und mein Herz berührte.
 Ich erfuhr später von Kollegen, dass Jesse schon seit vielen Jahren als DJ aktiv ist und dass er eine große Vinyl-Sammlung hat. 
+  <a href="https://soundcloud.com/jessejay/sets/djjessejay" title="Dj" target="_blank" style="color: #cccccc; text-decoration: none;">Dj</a></div>
+  
 Er hat in vielen legendären Clubs gespielt und hat eine eigene Radiosendung beim Radio LoRa. 
 Er ist ein Meister seines Fachs und hat einen unverwechselbaren Stil. 
 Er liebt es, eins zu werden mit der Musik und seine Gefühle mit dem Publikum zu teilen. 
@@ -147,11 +155,6 @@ Ich kann euch nur empfehlen, ihn mal live zu erleben, wenn ihr die Chance habt. 
 
 
 
-<meta name="keywords" content="DJ, Jesse Jay, JesseJay, Michael, Fellner, Michael Fellner, Techno,
-House, Progressive, Prog-House, Progressive-House, Tech-House, progressive, sexy Musik"> </>
-<body><title>
-<h2>:: since 1997 the progressive music attack from Zürich ::</h2>
-<meta name="description" content="https://m30n.blogspot.com/p/dj-jesse-jay-since-over-25-years.html" />
 
 
 <!-- wp:image {"id":368,"sizeSlug":"large"} -->

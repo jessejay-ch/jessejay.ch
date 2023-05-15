@@ -1,5 +1,8 @@
 {
     "recommendations": [
-        "tyriar.luna-paint"
+        "codespaces-contrib.codeswing",
+        "hediet.vscode-drawio",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "esbenp.prettier-vscode"
     ]
 }

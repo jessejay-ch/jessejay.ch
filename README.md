@@ -8,10 +8,9 @@ Diese Website verwendet Cookies, um Ihr Browsererlebnis zu verbessern.
 -   [Datenschutz](datenschutz.html){.translate key="privacy"}
 
 ::: social-icons
-[](https://soundcloud.com/jessejay){target="_blank"
-aria-label="Soundcloud"}
-[](https://www.lora.ch/radio/sendungen/blue-dimension){target="_blank"
-aria-label="LoRa"}
+https://soundcloud.com/jessejay
+
+https://www.lora.ch/radio/sendungen/blue-dimension
 :::
 
 ## Biografie {#biografie .translate key="biography"}
